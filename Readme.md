@@ -9,6 +9,9 @@
 * [Server.aspx.cs](./CS/Server.aspx.cs) (VB: [Server.aspx.vb](./VB/Server.aspx.vb))
 <!-- default file list end -->
 # ASPxHint - How to set custom content
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t517361/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to set custom ASPxHint content using the client-side API and server-side markup.</p>
